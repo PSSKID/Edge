@@ -3106,6 +3106,9 @@
                   "color": "@colorIcon"
                 }
               }
+            },
+            ".title__title": {
+              "text-align": "left"
             }
           },
           "_name": "title3",
