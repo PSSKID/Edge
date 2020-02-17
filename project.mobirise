@@ -63,9 +63,9 @@
       "textButton": "Agree"
     },
     "gdpr": {
-      "colorText": "#a7a7a7",
+      "colorText": "#f41717",
       "colorLink": "#149dcc",
-      "underlineLink": false,
+      "underlineLink": true,
       "text": "By continuing you agree to our <a href='terms.html'>Terms of Service</a> and <a href='policy.html'>Privacy Policy</a>."
     },
     "favicon": false,
